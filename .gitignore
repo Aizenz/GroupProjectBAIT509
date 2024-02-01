@@ -1,4 +1,5 @@
 # sql connection and charles data
+.vscode/
 charles/
 credentials.json
 # Byte-compiled / optimized / DLL files
