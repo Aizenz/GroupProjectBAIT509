@@ -1,4 +1,6 @@
-*.json
+# sql connection and charles data
+charles/
+credentials.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
