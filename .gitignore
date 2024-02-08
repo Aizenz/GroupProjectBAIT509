@@ -1,4 +1,5 @@
 # sql connection and charles data
+*.sql
 localtest*
 .vscode/
 charles/

@@ -14,10 +14,7 @@ for instance:
 
 this file will be ignored when pull requiest
 
-
 # Things we can do list:
-
-
 
 * Models we have learnt
 * Classification-> Target: Categorical or binary
@@ -49,3 +46,5 @@ this file will be ignored when pull requiest
     * tree map
     * validation/train score
   * report delivery
+
+# 2.
